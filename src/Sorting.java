@@ -22,7 +22,7 @@ public class Sorting {
 
 
         //primitive types: int, double, boolean
-        // and Strings (not primitive but acts primitive)
+        // and Strings (not primitive but acts like primitive)
         //when passing primitive types, a copy of the data is used in the method
         //and the original values are not changed
 
