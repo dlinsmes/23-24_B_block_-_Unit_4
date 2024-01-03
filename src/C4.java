@@ -153,7 +153,7 @@ public class C4 {
                     }
 
                 }
-                if (rowCount == 4 || colCount == 4 || d1Count == 4 || d2Count == 0) {
+                if (rowCount == 4 || colCount == 4 || d1Count == 4 || d2Count == 4) {
                     System.out.println(piece + " wins!");
                     return true;
                 }
